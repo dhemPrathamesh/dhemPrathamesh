@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m a passionate developer and lifelong learner dedicate
 - 🔍 **Data Science & AI Projects**: 
   - Exploring advanced **EDA** and **machine learning** workflows using Python.
   - Building real-world solutions with **chatbots**, **NLP**, **emotion detection**, and **recommendation systems**.
-  - Patent-published: *Affective AI Tutoring System with Emotion Recognition*.
 
 - 🧠 **TARS-Inspired AI Chatbot**:
   - Simulates Interstellar’s TARS personality.
